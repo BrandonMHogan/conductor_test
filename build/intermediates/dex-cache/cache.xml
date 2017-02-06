@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_c6a2ab885b5855e00cebe43ad66755adbdbc547b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_2a684b9b6357a8af2c46f50530a4016f8fb2e1ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_7f898f069f48a92c4710fff9f8d19b518989dc07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.5.1_02b4f2bef21925af7987739b460e6b80b7914061\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shint\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.5.1_057d03f7c5950c73a1b8acfcc5e9b266c186c34e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_a824102154ae40f493967e42bf3eb8366536711c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_bb83c8644d0e0dc5d6b85067a2f4c9060ab7cd3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_8e98b77c05a6b170826d331cba5135dbd57ea672\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_db146d9501485e7257588f778a6e673d504e9879\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2941becee0b0ad1aeb84168c2c04c397768bce3f">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_899c4195d6ab0a373a59a79c295ae5dbb4764439\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.bluelinelabs\conductor\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a53a290402717a07ccb7a3179b702a557b11aefd">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bluelinelabs-conductor-2.1.0_6af56a80599b1ffcc281d15ff1ea3fe891e11a7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_b861a14b01399f6a4086a804d614c80f3ea0fa35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d7fc7d9cf32be1c8843592c1f0d71b774a2bb71">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f574c6d4b38f8e64f7c18281a812323beb335fd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_4aed0c17c57968d5d8d28e7f6d3a5b420ba944eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_2c82e8fd1494e1fe8ea72d0668b2cbbe5e797e10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_005fcc3611c51a0ab29c162f9ea1472673bd23e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_fa9981e0104c8383931eca56cc3957a4075197f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\ConductorTest\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\dev\ConductorTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_725f794bb9e3c29eef5f29f093cddf3dc14034f8\classes.dex" />
+    </item>
+
+</items>
